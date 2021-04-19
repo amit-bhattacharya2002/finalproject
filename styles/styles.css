@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&family=Ubuntu+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;0,500;0,600;1,400&display=swap');
-header{
+/*header{
 
     background-color:#2E1114;
     background-color:#501B1D;
@@ -31,7 +31,7 @@ header{
     background-color: #afd275;
     background-color: #557a95;
     background-color: #b1a296;
-}
+}*/
 
 *{
     margin: 0;
